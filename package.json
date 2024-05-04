@@ -1,6 +1,6 @@
 {
   "homepage": "https://fujihalab.github.io/quiz_dapp2024",
-  "name": "sotuken",
+  "name": "quiz_dapp2024",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
